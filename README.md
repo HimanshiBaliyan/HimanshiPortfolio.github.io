@@ -1,4 +1,3 @@
-# HimanshiPortfolio.github.io
 # Himanshi Balyan's Portfolio
 
 🌐 Welcome to the repository of my personal portfolio website. This website serves as a showcase of my skills, projects, and experiences.
