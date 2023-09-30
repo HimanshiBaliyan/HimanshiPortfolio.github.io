@@ -12,6 +12,7 @@
 
 - **Home:** Learn a bit about me and my background.
 - **Projects:** Explore the various projects I've worked on, with descriptions and links.
+- **Services:** Explore the range of services I offer to clients and businesses.
 - **Skills:** Discover the technologies and skills I'm proficient in.
 - **Contact:** Connect with me through social media or email.
 
